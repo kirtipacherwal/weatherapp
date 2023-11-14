@@ -1,0 +1,28 @@
+.box{
+border: 2px solid orangered;
+background-color: orangered;
+box-shadow: rgba(0, 0, 0, 39.3) 20px 19px 38px, rgba(0, 0, 0, 0.22) 20px 15px 12px;
+max-width: 80%;
+height: 300px;
+margin:  20px auto;
+padding: 10px 20px;
+border-radius: 50%;
+}
+
+
+body,html{
+background-color:  rgb(224, 178, 178);
+}
+.container {
+display: flex;
+}
+
+button{
+    margin: 10px 10px;
+}
+
+p{
+    justify-content: center;
+    text-align: center;
+    font-size: 3rem;
+}
